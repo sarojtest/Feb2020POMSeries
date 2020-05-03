@@ -4,7 +4,7 @@ public class DealsPage {
 	
 	
 	public DealsPage() {
-		System.out.println("Deals page creation...");
+		System.out.println("Deals page constructor...");
 	}
 
 }
