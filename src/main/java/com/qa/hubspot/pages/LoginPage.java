@@ -17,7 +17,7 @@ public class LoginPage extends BasePage {
 	By username = By.id("username");
 	By password = By.id("password");
 	By loginButton = By.id("loginBtn");
-	By signUpLink = By.linkText("Sign up12");
+	By signUpLink = By.linkText("Sign up");
 	
 	//2. Constuctors of the page class to initialise driver  :
 	public LoginPage(WebDriver driver) {
